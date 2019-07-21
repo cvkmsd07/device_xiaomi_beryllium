@@ -1,0 +1,32 @@
+[
+  {
+    "remote": "github",
+    "repository": "Evolution-X-Devices/device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common",
+    "branch": "pie"
+  },
+  {
+    "remote": "github",
+    "repository": "Evolution-X-Devices/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "pie"
+  },
+  {
+    "remote": "github",
+    "repository": "akhilnarang/beryllium",
+    "target_path": "kernel/xiaomi/sdm845",
+    "branch": "pie"
+  },
+  {
+    "remote": "github",
+	"repository" : "syberia-project/platform_hardware_qcom_display",
+	"target_path": "hardware/qcom/display-caf/sdm845",
+	"branch"     : "9.0-caf-845"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0"
+  }
+]
